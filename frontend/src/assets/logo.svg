@@ -1,0 +1,31 @@
+<svg
+  width="52"
+  height="52"
+  viewBox="0 0 52 52"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Mountain background -->
+  <path
+    d="M5 40L17 23L24 32L32 14L47 40H5Z"
+    fill="#172554"
+  />
+
+  <!-- Snow peak -->
+  <path
+    d="M17 23L21 28L24 32L20 29L17 23Z"
+    fill="#FFFFFF"
+  />
+
+  <!-- Orange mountain accent -->
+  <path
+    d="M32 14L47 40H40L32 27L28 34L24 32L32 14Z"
+    fill="#F59E0B"
+  />
+
+  <!-- Snow accent -->
+  <path
+    d="M32 14L36 21L32 19L28 27L24 32L32 14Z"
+    fill="#E2E8F0"
+  />
+</svg>
